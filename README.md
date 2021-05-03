@@ -28,3 +28,14 @@ Figures below show that both the original (**Figures 1 and 2**) and refactored c
 
 
 ## Summary
+Refactoring code is the process of editing and reusing previously written code to make it more efficient without changing its functionality. 
+
+Advantages to refactoring code include:
+* increases code readibility and quality
+* increases computational efficiency
+
+Disadvantages to refactoring code:
+* can be more time-consuming 
+* can introduce new and unexpected errors
+
+Refactoring the VBA code proved to be computationally efficient, resulting in a script run time that was 10 times faster than the original code. With the creation of a tickerIndex counter, the refactored code allowed for anaylysis beyond the original 12 stocks. Though it was more time-consuing, refactoring was advantageous because it ultimately made the code more efficient and generalizable. 
